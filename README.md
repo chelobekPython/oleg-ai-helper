@@ -11,6 +11,9 @@ You enter your prompt, and the first ai analyzes this prompt. It reformulates yo
 This AI can edit, create and delete your files.
 ---
 
+For oleg you need to have installed ollama on your computer 
+irm https://ollama.com/install.ps1 | iex
+and before using - ollama serve
 📬 Contact
 
 Telegram: @I_am_chotko
