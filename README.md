@@ -12,10 +12,14 @@ This AI can edit, create and delete your files.
 ---
 
 For oleg you need to have installed ollama on your computer 
+```bash
 irm https://ollama.com/install.ps1 | iex
-and before using - ollama serve
+```
+and before using 
+```bash
+ollama serve
+```
 📬 Contact
-
 Telegram: @I_am_chotko
 
 📝 License
